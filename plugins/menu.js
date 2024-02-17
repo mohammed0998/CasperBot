@@ -23,12 +23,12 @@ let tags = {
 const defaultMenu = {
   before: `السلام عليكم 👋. 
 
-┏━━ salam  *%name*
+┏━━ welcom  *%name* to casper bot
 👥 *Total user:* %totalreg 
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *B O B I Z A | M E N U*
+  ≡ *C A S P  E R | M E N U*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
@@ -136,8 +136,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'CASPER BOT ♥',
-body: "أول بوت واتساب في العالم العربي 💖",
+title: 'CASPER BOT ',
+body: "أحسن بوت امكن تشوفو 💖",
 thumbnailUrl: '../casper.jpeg',
 sourceUrl: 'https://instagram.com/mohamed_g03',
 mediaType: 1,
