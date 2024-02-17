@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'CASPER BOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
+thumbnailUrl: '../casper.jpeg',
 sourceUrl: 'https://instagram.com/mohamed_g03',
 mediaType: 1,
 renderLargerThumbnail: true
