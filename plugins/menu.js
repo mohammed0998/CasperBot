@@ -138,13 +138,13 @@ contextInfo: {
 externalAdReply: {
 title: 'CASPER BOT ',
 body: "أحسن بوت امكن تشوفو 💖",
-thumbnailUrl: '../casper.jpeg',
+thumbnailUrl: 'casper.jpeg',
 sourceUrl: 'https://instagram.com/mohamed_g03',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
 
-    /*conn.sendFile(m.chat, 'menu.png', text.trim(), m, null, )
+    /*conn.sendFile(m.chat, 'casper.jpeg', text.trim(), m, null, )
     /*conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff', pp, [
       ['ꨄ︎ Apoyar', `${_p}donate`],
       ['⏍ Info', `${_p}botinfo`],
