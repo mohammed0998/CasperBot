@@ -138,8 +138,8 @@ contextInfo: {
 externalAdReply: {
 title: 'MALDIN BOT ♥',
 body: "أول بوت مالكته أحسن فتاة 💖",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+thumbnailUrl: 'https://github.com/Maldinbot/Maldinbot/blob/master/IMG-20240219-WA0000.jpg',
+sourceUrl: 'https://instagram.com/',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
