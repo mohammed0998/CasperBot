@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'MALDIN BOT ♥',
 body: "أول بوت مالكته أحسن فتاة 💖",
-thumbnailUrl: 'https://github.com/Maldinbot/Maldinbot/blob/master/IMG-20240219-WA0000.jpg',
+thumbnailUrl: '../IMG-20240219-WA0000.jpg',
 sourceUrl: 'https://instagram.com/',
 mediaType: 1,
 renderLargerThumbnail: true
