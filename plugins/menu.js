@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'CASPER BOT ',
 body: "أحسن بوت امكن تشوفو 💖",
-thumbnailUrl: 'casper.jpeg',
+thumbnailUrl: 'https://i.postimg.cc/FF2yMJ2X/Screenshot-20240221-000011-Gallery.jpg',
 sourceUrl: 'https://instagram.com/mohamed_g03',
 mediaType: 1,
 renderLargerThumbnail: true
