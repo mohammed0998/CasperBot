@@ -27,12 +27,12 @@ global.titulowm = 'casper';
 global.titulowm2 = `casper`
 global.igfg = 'casper';
 global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/mohamed_g03';
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
-global.imagen4 = fs.readFileSync('./Menu.png');
-global.imagen5 = fs.readFileSync('./src/+18.jpg');
-global.imagen6 = fs.readFileSync('./Menu3.png');
+global.imagen1 = fs.readFileSync('./casper.jpeg');
+global.imagen2 = fs.readFileSync('./casper.jpeg');
+global.imagen3 = fs.readFileSync('./casper.jpeg');
+global.imagen4 = fs.readFileSync('./casper.jpeg');
+global.imagen5 = fs.readFileSync('./casper.jpeg');
+global.imagen6 = fs.readFileSync('./casper.jpeg');
 
 global.mods = [];
 
