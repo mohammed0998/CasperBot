@@ -21,7 +21,7 @@ let tags = {
   'uploader':'‎‎ uploader‎',
 }
 const defaultMenu = {
-  before: `السلام عليكم 👋. 
+  before: `Hello 👋. 
 
 ┏━━ welcom  *%name* to casper bot
 👥 *Total user:* %totalreg 
