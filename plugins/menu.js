@@ -23,7 +23,7 @@ let tags = {
 const defaultMenu = {
   before: `Hello 👋. 
 
-┏━━ welcom  *%name* to casper bot
+┏━━ Welcome  *%name* to 𝙲𝙰𝚂𝙿𝙴𝚁 𝙱𝙾𝚃
 👥 *Total user:* %totalreg 
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
