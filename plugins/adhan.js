@@ -20,7 +20,7 @@ handler.command = /^(adhan)$/i
 export default handler
 
 async function fetchPrayerTimes(q) {
-  const url = 'https://athantime.me/' + q; // Ganti URL_HALAMAN_ADZAN dengan URL halaman web yang berisi informasi jadwal waktu adzan
+  const url = 'https://athantime.me/Safi' + q; // Ganti URL_HALAMAN_ADZAN dengan URL halaman web yang berisi informasi jadwal waktu adzan
 
   try {
     const response = await fetch(url);
